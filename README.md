@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="https://github.com/AdrianOliv/Assets/blob/main/pixel-art-gif-Pixelart.gif"  width="300"/>
+<img align="left" alt="GIF" src="https://github.com/AdrianOliv/Assets/blob/main/Gifs/pixel-art-gif-Pixelart.gif"  width="300"/>
 
 # Exec_Python
 Repositório de arquivos executáveis extraídos do <a href="https://github.com/AdrianOliv/Python">Repositório Python</a>.
